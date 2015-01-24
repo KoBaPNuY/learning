@@ -1,0 +1,581 @@
+<?xml version="1.0" encoding="utf-8"?>
+<store publication="PlayStation Official Magazine - UK">
+  <folio version="3.8.1">
+    <upgradetext><![CDATA[Wait a minute! We’ve updated this app and it looks like you’re using an older version. Update now to take advantage of improved features.]]></upgradetext>
+  </folio>
+  <subscriptions>
+    <title><![CDATA[FREE 30-DAY TRIAL]]></title>
+    <intro><![CDATA[Download our current issue for FREE when you start a 30-day trial. Tap the blue free trial button now.]]></intro>
+    <subscription name="PlayStation Official Magazine - UK Subscriptions">
+      <subscriptionItem id="com.futurenet.playstationofficialmagazine.360days" hasFreeTrial="YES"/>
+      <subscriptionItem id="com.futurenet.playstationofficialmagazine.30days" hasFreeTrial="YES"/>
+    </subscription>
+    <subscription name="PlayStation Official Magazine - UK Subscriptions 3 Months"/>
+    <subscription name="PlayStation Official Magazine - UK Subscriptions 6 Months"/>
+    <subscription name="Playstation New Subs Opt"/>
+  </subscriptions>
+  <colours>
+    <primarytheme/>
+    <secondarytheme/>
+    <primarytext/>
+    <secondarytext/>
+  </colours>
+  <generalText>
+    <subscriptionsButton><![CDATA[Renew Now]]></subscriptionsButton>
+    <freeTrialButton><![CDATA[FREE TRIAL]]></freeTrialButton>
+  </generalText>
+  <infoPages>
+    <page>
+      <title><![CDATA[Restart your Subscription]]></title>
+      <strap><![CDATA[Save 50% and get instant access today]]></strap>
+      <body><![CDATA[Tap the button below to restart your subscription and download this issue now.
+
+As a subscriber you will save 50% off the usual price and never miss an issue again!
+
+If you don't like what you see then simply turn off auto-renew in your Apple account subscriptions page at least 24 hours before the auto-renew is due and you will not be charged.]]></body>
+      <image/>
+    </page>
+    <page>
+      <title><![CDATA[30-DAY FREE TRIAL]]></title>
+      <strap><![CDATA[Download this issue for FREE]]></strap>
+      <body><![CDATA[PAY NOTHING FOR 30 DAYS WHEN YOU TAP THE BUTTON BELOW.
+
+You're free to cancel at any time and will not be charged if you cancel during your trial period. *Scroll down page for terms & conditions.
+
+If you don't like what you see then simply turn off auto-renew in your Apple account subscriptions page at least 24 hours before the auto-renew is due and you will not be charged.  
+
+* Please note that 30-day free trials are only available to new subscribers. If you have previously subscribed then payment will be taken immediately.]]></body>
+      <image/>
+    </page>
+  </infoPages>
+  <groupings>
+    <group>
+      <groupname name="Selected back issues"/>
+      <title><![CDATA[]]></title>
+      <intro><![CDATA[]]></intro>
+      <issues>
+        <issue id="com.futurenet.playstationofficialmagazine.104"/>
+        <issue id="com.futurenet.playstationofficialmagazine.103"/>
+        <issue id="com.futurenet.playstationofficialmagazine.102"/>
+        <issue id="com.futurenet.playstationofficialmagazine.100"/>
+      </issues>
+    </group>
+    <group>
+      <groupname name="More issues"/>
+      <title><![CDATA[]]></title>
+      <intro><![CDATA[]]></intro>
+      <issues>
+        <issue id="com.futurenet.playstationofficialmagazine.105"/>
+        <issue id="com.futurenet.playstationofficialmagazine.104"/>
+        <issue id="com.futurenet.playstationofficialmagazine.103"/>
+        <issue id="com.futurenet.playstationofficialmagazine.102"/>
+        <issue id="com.futurenet.playstationofficialmagazine.101"/>
+        <issue id="com.futurenet.playstationofficialmagazine.100"/>
+        <issue id="com.futurenet.playstationofficialmagazine.99"/>
+        <issue id="com.futurenet.playstationofficialmagazine.98"/>
+        <issue id="com.futurenet.playstationofficialmagazine.97"/>
+        <issue id="com.futurenet.playstationofficialmagazine.96"/>
+        <issue id="com.futurenet.playstationofficialmagazine.95"/>
+        <issue id="com.futurenet.playstationofficialmagazine.94"/>
+        <issue id="com.futurenet.playstationofficialmagazine.93"/>
+        <issue id="com.futurenet.playstationofficialmagazine.92"/>
+        <issue id="com.futurenet.playstationofficialmagazine.91"/>
+        <issue id="com.futurenet.playstationofficialmagazine.90"/>
+        <issue id="com.futurenet.playstationofficialmagazine.89"/>
+        <issue id="com.futurenet.playstationofficialmagazine.88"/>
+        <issue id="com.futurenet.playstationofficialmagazine.87"/>
+        <issue id="com.futurenet.playstationofficialmagazine.86"/>
+        <issue id="com.futurenet.playstationofficialmagazine.85"/>
+        <issue id="com.futurenet.playstationofficialmagazine.84"/>
+        <issue id="com.futurenet.playstationofficialmagazine.83"/>
+        <issue id="com.futurenet.playstationofficialmagazine.82"/>
+        <issue id="com.futurenet.playstationofficialmagazine.81"/>
+        <issue id="com.futurenet.playstationofficialmagazine.80"/>
+        <issue id="com.futurenet.playstationofficialmagazine.79"/>
+        <issue id="com.futurenet.playstationofficialmagazine.78"/>
+        <issue id="com.futurenet.playstationofficialmagazine.77"/>
+        <issue id="com.futurenet.playstationofficialmagazine.76"/>
+        <issue id="com.futurenet.playstationofficialmagazine.75"/>
+        <issue id="com.futurenet.playstationofficialmagazine.74"/>
+        <issue id="com.futurenet.playstationofficialmagazine.73"/>
+        <issue id="com.futurenet.playstationofficialmagazine.72"/>
+        <issue id="com.futurenet.playstationofficialmagazine.71"/>
+        <issue id="com.futurenet.playstationofficialmagazine.70"/>
+        <issue id="com.futurenet.playstationofficialmagazine.69"/>
+        <issue id="com.futurenet.playstationofficialmagazine.68"/>
+        <issue id="com.futurenet.playstationofficialmagazine.67"/>
+        <issue id="com.futurenet.playstationofficialmagazine.66"/>
+        <issue id="com.futurenet.playstationofficialmagazine.65"/>
+        <issue id="com.futurenet.playstationofficialmagazine.64"/>
+        <issue id="com.futurenet.playstationofficialmagazine.63"/>
+        <issue id="com.futurenet.playstationofficialmagazine.62"/>
+        <issue id="com.futurenet.playstationofficialmagazine.61"/>
+        <issue id="com.futurenet.playstationofficialmagazine.60"/>
+        <issue id="com.futurenet.playstationofficialmagazine.59"/>
+        <issue id="com.futurenet.playstationofficialmagazine.58"/>
+        <issue id="com.futurenet.playstationofficialmagazine.57"/>
+        <issue id="com.futurenet.playstationofficialmagazine.56"/>
+        <issue id="com.futurenet.playstationofficialmagazine.55"/>
+        <issue id="com.futurenet.playstationofficialmagazine.54"/>
+        <issue id="com.futurenet.playstationofficialmagazine.53"/>
+        <issue id="com.futurenet.playstationofficialmagazine.52"/>
+        <issue id="com.futurenet.playstationofficialmagazine.51"/>
+        <issue id="com.futurenet.playstationofficialmagazine.50"/>
+        <issue id="com.futurenet.playstationofficialmagazine.49"/>
+        <issue id="com.futurenet.playstationofficialmagazine.48"/>
+        <issue id="com.futurenet.playstationofficialmagazine.47"/>
+        <issue id="com.futurenet.playstationofficialmagazine.46"/>
+        <issue id="com.futurenet.playstationofficialmagazine.45"/>
+        <issue id="com.futurenet.playstationofficialmagazine.44"/>
+        <issue id="com.futurenet.playstationofficialmagazine.43"/>
+        <issue id="com.futurenet.playstationofficialmagazine.42"/>
+        <issue id="com.futurenet.playstationofficialmagazine.41"/>
+        <issue id="com.futurenet.playstationofficialmagazine.40"/>
+        <issue id="com.futurenet.playstationofficialmagazine.39"/>
+        <issue id="com.futurenet.playstationofficialmagazine.38"/>
+        <issue id="com.futurenet.playstationofficialmagazine.37"/>
+      </issues>
+    </group>
+    <group>
+      <groupname name="Specials"/>
+      <title><![CDATA[]]></title>
+      <intro><![CDATA[]]></intro>
+      <issues>
+        <issue id="com.futurenet.playstationofficialmagazine.special006"/>
+        <issue id="com.futurenet.playstationofficialmagazine.special002"/>
+        <issue id="com.futurenet.playstationofficialmagazine.ps4handbook"/>
+        <issue id="com.futurenet.playstationofficialmagazine.special001"/>
+        <issue id="com.futurenet.playstationofficialmagazine.ps4vxbox"/>
+        <issue id="com.futurenet.playstationofficialmagazine.78.s"/>
+        <issue id="com.futurenet.playstationofficialmagazine.68.A"/>
+        <issue id="com.futurenet.playstationofficialmagazine.65.a"/>
+      </issues>
+    </group>
+    <group>
+      <groupname name="Free stuff"/>
+      <title><![CDATA[]]></title>
+      <intro><![CDATA[]]></intro>
+      <issues>
+        <issue id="com.futurenet.playstationofficialmagazine.freeodeon"/>
+        <issue id="com.futurenet.playstationofficialmagazine.tescosampler"/>
+      </issues>
+    </group>
+  </groupings>
+  <library heroBoxTitle="">
+    <issue id="com.futurenet.playstationofficialmagazine.106" number="106" displayDate="February 2015">
+      <title><![CDATA[The Heroes Issue]]></title>
+      <description><![CDATA[Ten pages of Uncharted 4 gameplay plus the 20 Greatest PlayStation Icons of all time lead the way in an amazing issue home to 32 brand new games and a huge interview with legendary developer Tim Schafer ahead of Grim Fandango’s PS4 release.]]></description>
+      <heroimg src="http://cdn.static.storefront.futurefolio.futureplc.com/1421254359/future/BWaG8ASaR6uXjr7wjM2wjQ/en-gb/assets/future-BWaG8ASaR6uXjr7wjM2wjQ-en-gb-issue-9836-hero.jpg"/>
+    </issue>
+    <issue id="com.futurenet.playstationofficialmagazine.105" number="105" displayDate="January 2015">
+      <title><![CDATA[The Heroes Issue]]></title>
+      <description><![CDATA[This edition of Official PlayStation Magazine is your complete guide to The Year Of PS4, featuring a world exclusive reveal from The Witcher 3, new looks at all of the biggest games of the next 12 months, and an essential starter guide for new PS4 owners.]]></description>
+      <heroimg src="http://cdn.static.storefront.futurefolio.futureplc.com/1418921323/future/BWaG8ASaR6uXjr7wjM2wjQ/en-gb/assets/future-BWaG8ASaR6uXjr7wjM2wjQ-en-gb-issue-9708-hero.jpg"/>
+    </issue>
+    <issue id="com.futurenet.playstationofficialmagazine.104" number="104" displayDate="Christmas 2014">
+      <title><![CDATA[The new face of PS4]]></title>
+      <description><![CDATA[Be the first to meet the new face of PlayStation 4 in our huge world exclusive on Hellblade. This issue we also celebrate 20 Years Of PlayStation and construct the ultimate Xmas Buyers Guide for all PlayStation fans.]]></description>
+      <heroimg src="http://cdn.static.storefront.futurefolio.futureplc.com/1416394965/future/BWaG8ASaR6uXjr7wjM2wjQ/en-gb/assets/future-BWaG8ASaR6uXjr7wjM2wjQ-en-gb-issue-9454-hero.jpg"/>
+    </issue>
+    <issue id="com.futurenet.playstationofficialmagazine.103" number="103" displayDate="December 2014">
+      <title><![CDATA[Assassin's Creed: Unity]]></title>
+      <description><![CDATA[The countdown to Christmas starts with our Assassin's Creed and Grand Theft Auto V launch special, going behind the scenes of this holiday's biggest games. We’ve also got new Uncharted 4 artwork, Final Fantasy info and a FREE 32-page interview book.]]></description>
+      <heroimg src="http://cdn.static.storefront.futurefolio.futureplc.com/1413797568/future/BWaG8ASaR6uXjr7wjM2wjQ/en-gb/assets/future-BWaG8ASaR6uXjr7wjM2wjQ-en-gb-issue-9201-hero.jpg"/>
+    </issue>
+    <issue id="com.futurenet.playstationofficialmagazine.special006">
+      <title><![CDATA[The Ultimate Guide to PS4]]></title>
+      <description><![CDATA[Your complete guide to PS4 contains every single big  release of 2015, as well as the top 20 PS4  games you can buy right now. We've also got previews of No Man's Sky, Uncharted 4, The Witcher 3 and more!]]></description>
+      <heroimg src="http://cdn.static.storefront.futurefolio.futureplc.com/1415962921/future/BWaG8ASaR6uXjr7wjM2wjQ/en-gb/assets/future-BWaG8ASaR6uXjr7wjM2wjQ-en-gb-issue-9425-hero.jpg"/>
+    </issue>
+    <issue id="com.futurenet.playstationofficialmagazine.102" displayDate="November 2014">
+      <title><![CDATA[Only on PlayStation!]]></title>
+      <description><![CDATA[Go inside 30 amazing PlayStation exclusives in our 'Only On PlayStation' Issue, featuring hands-on tests with Bloodborne, LBP3, Until Dawn, The Order: 1886 and more! Also this month: WWE 2K15 and the ultimate Destiny review + NINE free in-game items!]]></description>
+      <heroimg src="http://cdn.static.storefront.futurefolio.futureplc.com/1411377978/future/BWaG8ASaR6uXjr7wjM2wjQ/en-gb/assets/future-BWaG8ASaR6uXjr7wjM2wjQ-en-gb-issue-8920-hero.jpg"/>
+    </issue>
+    <issue id="com.futurenet.playstationofficialmagazine.101" number="101" displayDate="October 2014">
+      <title><![CDATA[Playstation's Zombie Outbreak]]></title>
+      <description><![CDATA[The undead have taken over OPM this issue: Dead Island 2 is the first bite in a wave of z-games including Resident Evil, Dying Light and DayZ. This month we also kick our most hated features into Room 101 and say hello to Wild and Tearaway Unfolded.]]></description>
+      <heroimg src="http://cdn.static.storefront.futurefolio.futureplc.com/1409217461/future/BWaG8ASaR6uXjr7wjM2wjQ/en-gb/assets/future-BWaG8ASaR6uXjr7wjM2wjQ-en-gb-issue-8731-hero.jpg"/>
+    </issue>
+    <issue id="com.futurenet.playstationofficialmagazine.100" number="100" displayDate="September 2014">
+      <title><![CDATA[The Issue 100 Special]]></title>
+      <description><![CDATA[Celebrate our 100th issue with a bumper 196-pages filled with features, including the world’s best Destiny coverage; PlayStation’s 100 Greatest Games EVER; behind the scenes at Naughty Dog; and the first ever The Last Of Us Remastered review.]]></description>
+      <heroimg src="http://cdn.static.storefront.futurefolio.futureplc.com/1406881122/future/BWaG8ASaR6uXjr7wjM2wjQ/en-gb/assets/future-BWaG8ASaR6uXjr7wjM2wjQ-en-gb-issue-8411-hero.jpg"/>
+    </issue>
+    <issue id="com.futurenet.playstationofficialmagazine.99" number="99" displayDate="August 2014">
+      <title><![CDATA[The Hot 50 2014]]></title>
+      <description><![CDATA[We’ve crammed some of the most exciting games in PlayStation history into our annual Hot 50 countdown list this issue: Uncharted 4: A Thief’s End, Rainbow Six: Siege, No Man’s Sky, MGS V: The Phantom Pain, The Division and many more. Don’t miss out!]]></description>
+      <heroimg src="http://cdn.static.storefront.futurefolio.futureplc.com/1404463194/future/BWaG8ASaR6uXjr7wjM2wjQ/en-gb/assets/future-BWaG8ASaR6uXjr7wjM2wjQ-en-gb-issue-8174-hero.jpg"/>
+    </issue>
+    <issue id="com.futurenet.playstationofficialmagazine.98" number="98" displayDate="July 2014">
+      <title><![CDATA[Homefront The Revolution]]></title>
+      <description><![CDATA[A tiny taster of this issue's contents: world-first reveals of Homefront The Revolution and Dead Island 2, 10-pages of exclusive Call Of Duty Advanced Warfare access, two-hours in The Evil Within, your Uncharted 4 wishes, Far Cry 4 and more!]]></description>
+      <heroimg src="http://cdn.static.storefront.futurefolio.futureplc.com/1402311755/future/BWaG8ASaR6uXjr7wjM2wjQ/en-gb/assets/future-BWaG8ASaR6uXjr7wjM2wjQ-en-gb-issue-7935-hero.jpg"/>
+    </issue>
+    <issue id="com.futurenet.playstationofficialmagazine.97" number="97" displayDate="June 2014">
+      <title><![CDATA[The Order: 1886]]></title>
+      <description><![CDATA[The new Official PlayStation Magazine is a corker, featuring brand new access to PS4 exclusive The Order: 1886, lengthy hands-on sessions with shooter Destiny and sandboxer Watch Dogs, and PlayStation's greatest ever 'WTF' moments.]]></description>
+      <heroimg src="http://cdn.static.storefront.futurefolio.futureplc.com/1399566249/future/BWaG8ASaR6uXjr7wjM2wjQ/en-gb/assets/future-BWaG8ASaR6uXjr7wjM2wjQ-en-gb-issue-7647-hero.jpg"/>
+    </issue>
+    <issue id="com.futurenet.playstationofficialmagazine.96" number="96" displayDate="May 2014">
+      <title><![CDATA[Borderlands: The Pre-Sequel]]></title>
+      <description><![CDATA[The new issue of Official PlayStation Magazine's out now, featuring Assassin's Creed Unity, Borderlands: The Pre-Sequel, Watch Dogs, the biggest indie games of PlayStation's future and the first play with PS4's Virtual Reality headset.]]></description>
+      <heroimg src="http://cdn.static.storefront.futurefolio.futureplc.com/1397145209/future/BWaG8ASaR6uXjr7wjM2wjQ/en-gb/assets/future-BWaG8ASaR6uXjr7wjM2wjQ-en-gb-issue-7339-hero.jpg"/>
+    </issue>
+    <issue id="com.futurenet.playstationofficialmagazine.95" number="95" displayDate="April 2014">
+      <title><![CDATA[Batman: Arkham Knight]]></title>
+      <description><![CDATA[This month in OPM we have a 12-page exclusive first look at Batman: Arkham Knight, go undercover to investigate PS4's top-secret games, finish MGS V: Ground Zeroes TWICE, and much, much more…]]></description>
+      <heroimg src="http://cdn.static.storefront.futurefolio.futureplc.com/1395050202/future/BWaG8ASaR6uXjr7wjM2wjQ/en-gb/assets/future-BWaG8ASaR6uXjr7wjM2wjQ-en-gb-issue-7069-hero.jpg"/>
+    </issue>
+    <issue id="com.futurenet.playstationofficialmagazine.ps4handbook">
+      <title><![CDATA[The Ultimate PS4 Handbook]]></title>
+      <description><![CDATA[148-page guide to PS4, with every game on the console reviewed, plus all the biggest titles coming in 2014 and beyond.]]></description>
+      <heroimg src="http://cdn.static.storefront.futurefolio.futureplc.com/1397119048/future/BWaG8ASaR6uXjr7wjM2wjQ/en-gb/assets/future-BWaG8ASaR6uXjr7wjM2wjQ-en-gb-issue-7323-hero.jpg"/>
+    </issue>
+    <issue id="com.futurenet.playstationofficialmagazine.94" number="94" displayDate="March 2014">
+      <title><![CDATA[Evolve]]></title>
+      <description><![CDATA[World first hands-on with Evolve, massive inFamous: Second Son playtest, Alien: Isolation and much more…]]></description>
+      <heroimg src="http://cdn.static.storefront.futurefolio.futureplc.com/1392375708/future/BWaG8ASaR6uXjr7wjM2wjQ/en-gb/assets/future-BWaG8ASaR6uXjr7wjM2wjQ-en-gb-issue-94-hero.jpg"/>
+    </issue>
+    <issue id="com.futurenet.playstationofficialmagazine.special002">
+      <title><![CDATA[The Ultimate Guide To Minecraft!]]></title>
+      <description><![CDATA[The Ultimate Guide To Minecraft returns, with all new content! We've guides, handbooks, all the latest info - everything you need whether you're a veteran or a newcomer!]]></description>
+      <heroimg src="http://cdn.static.storefront.futurefolio.futureplc.com/1401960682/future/BWaG8ASaR6uXjr7wjM2wjQ/en-gb/assets/future-BWaG8ASaR6uXjr7wjM2wjQ-en-gb-issue-7002-hero.png"/>
+    </issue>
+    <issue id="com.futurenet.playstationofficialmagazine.93" number="93" displayDate="February 2014">
+      <title><![CDATA[Alien Isolation]]></title>
+      <description><![CDATA[Extended first look at Alien: Isolation, GT6 reviewed, Thief hands-on and much more…]]></description>
+      <heroimg src="http://cdn.static.storefront.futurefolio.futureplc.com/1389954551/future/BWaG8ASaR6uXjr7wjM2wjQ/en-gb/assets/future-BWaG8ASaR6uXjr7wjM2wjQ-en-gb-issue-93-hero.jpg"/>
+    </issue>
+    <issue id="com.futurenet.playstationofficialmagazine.special001">
+      <title><![CDATA[The Complete Guide to RoboCop]]></title>
+      <description><![CDATA[The COMPLETE Guide to RoboCop. Over 50 pages on the making of the new movie, with all-new interviews with stars and filmmakers, plus tons of coverage on the original trilogy, the TV series, the cartoons and the comics.]]></description>
+      <heroimg src="http://cdn.static.storefront.futurefolio.futureplc.com/1390300735/future/BWaG8ASaR6uXjr7wjM2wjQ/en-gb/assets/future-BWaG8ASaR6uXjr7wjM2wjQ-en-gb-issue-uXzYkMp1-hero.jpg"/>
+    </issue>
+    <issue id="com.futurenet.playstationofficialmagazine.92" number="92" displayDate="January 2014">
+      <title><![CDATA[Dark Souls II]]></title>
+      <description><![CDATA[Game Of The Year 2013, FIFA 14 review, 2014: The Year OF PS4]]></description>
+      <heroimg src="http://cdn.static.storefront.futurefolio.futureplc.com/1387532899/future/BWaG8ASaR6uXjr7wjM2wjQ/en-gb/assets/future-BWaG8ASaR6uXjr7wjM2wjQ-en-gb-issue-92-hero.jpg"/>
+    </issue>
+    <issue id="com.futurenet.playstationofficialmagazine.91" number="91" year="2013" month="January" displayDate="Christmas 2013">
+      <title><![CDATA[PS4 Launch Special]]></title>
+      <description><![CDATA[Massive PS4 hands-on, launch games tested, Killzone/COD reviews, and much more…]]></description>
+      <heroimg src="http://cdn.static.storefront.futurefolio.futureplc.com/1385112118/future/BWaG8ASaR6uXjr7wjM2wjQ/en-gb/assets/future-BWaG8ASaR6uXjr7wjM2wjQ-en-gb-issue-91-hero.jpg"/>
+    </issue>
+    <issue id="com.futurenet.playstationofficialmagazine.ps4vxbox" year="2010" month="January">
+      <title><![CDATA[PS4 vs Xbox One]]></title>
+      <description><![CDATA[How do next-gen consoles improve on current gaming machines? Which is better - PS4 or Xbox One? What are the best games? We answer all these questions, and many more, in our extensive next-gen console buying guide, with expert advice from the publishers of Gamesmaster, PC Gamer, CVG and Edge. We take you through each console's technical specifications in jargon-free english, plus outline the best games, peripherals and more to help you make smarter buying decisions - with written editorials, videos and screenshot galleries optimised for iPad.]]></description>
+      <heroimg src="http://cdn.static.storefront.futurefolio.futureplc.com/1385131420/future/BWaG8ASaR6uXjr7wjM2wjQ/en-gb/assets/future-BWaG8ASaR6uXjr7wjM2wjQ-en-gb-issue-6Ukqfjp7-hero.jpg"/>
+    </issue>
+    <issue id="com.futurenet.playstationofficialmagazine.90" number="90" year="2013" month="December" displayDate="December 2013">
+      <title><![CDATA[PS4 pre-order guide]]></title>
+      <description><![CDATA[Assassin's Creed PS4 hands-on, Batman: Arkham Origins Review, 51 greatest LittleBigPlanet levels and more…]]></description>
+      <heroimg src="http://cdn.static.storefront.futurefolio.futureplc.com/1382695553/future/BWaG8ASaR6uXjr7wjM2wjQ/en-gb/assets/future-BWaG8ASaR6uXjr7wjM2wjQ-en-gb-issue-90-hero.jpg"/>
+    </issue>
+    <issue id="com.futurenet.playstationofficialmagazine.PS4guide" year="2010" month="January">
+      <title><![CDATA[Complete PS4 Guide]]></title>
+      <description><![CDATA[The games, the tech, the future: this is your ultimate PlayStation 4 handbook.]]></description>
+      <heroimg src="http://cdn.static.storefront.futurefolio.futureplc.com/1383228990/future/BWaG8ASaR6uXjr7wjM2wjQ/en-gb/assets/future-BWaG8ASaR6uXjr7wjM2wjQ-en-gb-issue-2LtOKy0o-hero.jpg"/>
+    </issue>
+    <issue id="com.futurenet.playstationofficialmagazine.89" number="89" year="2013" month="November" displayDate="November 2013">
+      <title><![CDATA[Xmas Games Special]]></title>
+      <description><![CDATA[Top 10 Christmas pre-orders, GTA V review, PS4 release date]]></description>
+      <heroimg src="http://cdn.static.storefront.futurefolio.futureplc.com/1380275126/future/BWaG8ASaR6uXjr7wjM2wjQ/en-gb/assets/future-BWaG8ASaR6uXjr7wjM2wjQ-en-gb-issue-89-hero.jpg"/>
+    </issue>
+    <issue id="com.futurenet.playstationofficialmagazine.freeodeon" year="2010" month="January">
+      <title><![CDATA[Odeon Sampler]]></title>
+      <description><![CDATA[This month we catch fire with the return of the Hunger Games and get turned upside down by Gravity - plus of course there's all the latest film facts, news and competitions!]]></description>
+      <heroimg src="http://cdn.static.storefront.futurefolio.futureplc.com/1382524790/future/BWaG8ASaR6uXjr7wjM2wjQ/en-gb/assets/future-BWaG8ASaR6uXjr7wjM2wjQ-en-gb-issue-ZwDPIVJ9-hero.jpg"/>
+    </issue>
+    <issue id="com.futurenet.playstationofficialmagazine.88" number="88" year="2013" month="October" displayDate="October 2013">
+      <title><![CDATA[Watch Dogs]]></title>
+      <description><![CDATA[Watch Dogs hands-on and feature, 36 things you never knew about GTA, NFS Rivals playtested, and more.]]></description>
+      <heroimg src="http://cdn.static.storefront.futurefolio.futureplc.com/1377855495/future/BWaG8ASaR6uXjr7wjM2wjQ/en-gb/assets/future-BWaG8ASaR6uXjr7wjM2wjQ-en-gb-issue-88-hero.jpg"/>
+    </issue>
+    <issue id="com.futurenet.playstationofficialmagazine.87" number="87" year="2013" month="September" displayDate="September 2013">
+      <title><![CDATA[PS4 pre-order guide]]></title>
+      <description><![CDATA[Gear up for the launch of PS4 with our pre-order special covering full detals of the console, the games, and where to get one.]]></description>
+      <heroimg src="http://cdn.static.storefront.futurefolio.futureplc.com/1375440048/future/BWaG8ASaR6uXjr7wjM2wjQ/en-gb/assets/future-BWaG8ASaR6uXjr7wjM2wjQ-en-gb-issue-87-hero.jpg"/>
+    </issue>
+    <issue id="com.futurenet.playstationofficialmagazine.86" number="86" year="2013" month="August" displayDate="August 2013">
+      <title><![CDATA[The Hot 50]]></title>
+      <description><![CDATA[PS4 revealed, The 50 hottest games coming to PlayStation, and much more…]]></description>
+      <heroimg src="http://cdn.static.storefront.futurefolio.futureplc.com/1373020342/future/BWaG8ASaR6uXjr7wjM2wjQ/en-gb/assets/future-BWaG8ASaR6uXjr7wjM2wjQ-en-gb-issue-86-hero.jpg"/>
+    </issue>
+    <issue id="com.futurenet.playstationofficialmagazine.85" number="85" year="2013" month="July" displayDate="July 2013">
+      <title><![CDATA[The Power Of PS4]]></title>
+      <description><![CDATA[Four huge PS4 exclusives: Watch Dogs, Assassin's Creed IV, Driveclub, Call Of Duty: Ghosts; The A to Z of PS4; Everything you ever wanted to know about GTA V; The Last Of Us review. Plus: new look mag!]]></description>
+      <heroimg src="http://cdn.static.storefront.futurefolio.futureplc.com/1370605423/future/BWaG8ASaR6uXjr7wjM2wjQ/en-gb/assets/future-BWaG8ASaR6uXjr7wjM2wjQ-en-gb-issue-85-hero.jpg"/>
+    </issue>
+    <issue id="com.futurenet.playstationofficialmagazine.84" number="84" year="2013" month="June" displayDate="June 2013">
+      <title><![CDATA[Killzone: Shadow Fall]]></title>
+      <description><![CDATA[Killzone: Shadow Fall exlusive, Diablo III on PS4, Metro: Last Light review and more…]]></description>
+      <heroimg src="http://cdn.static.storefront.futurefolio.futureplc.com/1368184692/future/BWaG8ASaR6uXjr7wjM2wjQ/en-gb/assets/future-BWaG8ASaR6uXjr7wjM2wjQ-en-gb-issue-84-hero.jpg"/>
+    </issue>
+    <issue id="com.futurenet.playstationofficialmagazine.83" number="83" year="2013" month="May" displayDate="May 2013">
+      <title><![CDATA[Thief]]></title>
+      <description><![CDATA[PS4's launch line-up predicted, Thief revealed, Bioshock Infinite review, and more…]]></description>
+      <heroimg src="http://cdn.static.storefront.futurefolio.futureplc.com/1365762812/future/BWaG8ASaR6uXjr7wjM2wjQ/en-gb/assets/future-BWaG8ASaR6uXjr7wjM2wjQ-en-gb-issue-83-hero.jpg"/>
+    </issue>
+    <issue id="com.futurenet.playstationofficialmagazine.82" number="82" year="2013" month="April" displayDate="April 2013">
+      <title><![CDATA[PS4]]></title>
+      <description><![CDATA[PS4 reveal special, hands-on with The Last Of Us, first-look at Destiny.]]></description>
+      <heroimg src="http://cdn.static.storefront.futurefolio.futureplc.com/1363339440/future/BWaG8ASaR6uXjr7wjM2wjQ/en-gb/assets/future-BWaG8ASaR6uXjr7wjM2wjQ-en-gb-issue-82-hero.jpg"/>
+    </issue>
+    <issue id="com.futurenet.playstationofficialmagazine.81" number="81" year="2013" month="March" displayDate="March 2013">
+      <title><![CDATA[The Future of Killzone]]></title>
+      <description><![CDATA[First hands-on with Killzone: Mercenary & Tearaway, the future of Call Of Duty, reviews of Dead Space 3 and Metal Gear Rising.]]></description>
+      <heroimg src="http://cdn.static.storefront.futurefolio.futureplc.com/1360924089/future/BWaG8ASaR6uXjr7wjM2wjQ/en-gb/assets/future-BWaG8ASaR6uXjr7wjM2wjQ-en-gb-issue-81-hero.jpg"/>
+    </issue>
+    <issue id="com.futurenet.playstationofficialmagazine.80.A">
+      <title><![CDATA[Football Week]]></title>
+      <description><![CDATA[In association with {Mag Name} enjoy 5 FREE issues of our brand new sister title Football Week! Download today to find out more…]]></description>
+      <heroimg src=""/>
+    </issue>
+    <issue id="com.futurenet.playstationofficialmagazine.80" number="80" year="2013" month="February" displayDate="February 2013">
+      <title><![CDATA[Bioshock Infinite]]></title>
+      <description><![CDATA[Bioshock Infinite played at last, massive Metal Gear hands-on, DMC review.]]></description>
+      <heroimg src="http://cdn.static.storefront.futurefolio.futureplc.com/1358936597/future/BWaG8ASaR6uXjr7wjM2wjQ/en-gb/assets/future-BWaG8ASaR6uXjr7wjM2wjQ-en-gb-issue-80-hero.jpg"/>
+    </issue>
+    <issue id="com.futurenet.playstationofficialmagazine.79" number="79" year="2013" month="January" displayDate="January 2013">
+      <title><![CDATA[Beyond: Two Souls]]></title>
+      <description><![CDATA[2013 preview special, your top 40 of 2012, next-gen exposed, and more…]]></description>
+      <heroimg src="http://cdn.static.storefront.futurefolio.futureplc.com/1359126552/future/BWaG8ASaR6uXjr7wjM2wjQ/en-gb/assets/future-BWaG8ASaR6uXjr7wjM2wjQ-en-gb-issue-79-hero.jpg"/>
+    </issue>
+    <issue id="com.futurenet.playstationofficialmagazine.78.s">
+      <title><![CDATA[Hitman: Absolution Gamebook]]></title>
+      <description><![CDATA[You are Agent 47 in this unique interactive gamebook based on real missions from Hitman: Absolution.]]></description>
+      <heroimg src="http://cdn.static.storefront.futurefolio.futureplc.com/1356349470/future/BWaG8ASaR6uXjr7wjM2wjQ/en-gb/assets/future-BWaG8ASaR6uXjr7wjM2wjQ-en-gb-issue-Qv0VTX2F-hero.png"/>
+    </issue>
+    <issue id="com.futurenet.playstationofficialmagazine.78" number="78" year="2012" displayDate="Christmas 2012">
+      <title><![CDATA[Black Ops II Launch]]></title>
+      <description><![CDATA[Call Of Duty: Black Ops II launch special, Dishonored guide, GTA V info burst.]]></description>
+      <heroimg src="http://cdn.static.storefront.futurefolio.futureplc.com/1356349426/future/BWaG8ASaR6uXjr7wjM2wjQ/en-gb/assets/future-BWaG8ASaR6uXjr7wjM2wjQ-en-gb-issue-78-hero.jpg"/>
+    </issue>
+    <issue id="com.futurenet.playstationofficialmagazine.77" number="77" year="2012" month="December" displayDate="December 2012">
+      <title><![CDATA[Hitman Absolution]]></title>
+      <description><![CDATA[Hitman Absolution exclusive review, Metal Gear special, Call Of Duty: Black Ops II preview.]]></description>
+      <heroimg src="http://cdn.static.storefront.futurefolio.futureplc.com/1356349387/future/BWaG8ASaR6uXjr7wjM2wjQ/en-gb/assets/future-BWaG8ASaR6uXjr7wjM2wjQ-en-gb-issue-77-hero.png"/>
+    </issue>
+    <issue id="com.futurenet.playstationofficialmagazine.76" number="76" year="2012" month="November" displayDate="November 2012">
+      <title><![CDATA[Assassin's Creed III]]></title>
+      <description><![CDATA[Asassin's Creed III first hands-on, three hour Far Cry 3 playtest, FIFA 13 review.]]></description>
+      <heroimg src="http://cdn.static.storefront.futurefolio.futureplc.com/1356349356/future/BWaG8ASaR6uXjr7wjM2wjQ/en-gb/assets/future-BWaG8ASaR6uXjr7wjM2wjQ-en-gb-issue-76-hero.jpg"/>
+    </issue>
+    <issue id="com.futurenet.playstationofficialmagazine.75" number="75" year="2012" month="October" displayDate="October 2012">
+      <title><![CDATA[Call of Duty Multiplayer]]></title>
+      <description><![CDATA[Call Of Duty: Black Ops 2 multiplayer reveal, greatest 75 PlayStation games of all time.]]></description>
+      <heroimg src="http://cdn.static.storefront.futurefolio.futureplc.com/1356349326/future/BWaG8ASaR6uXjr7wjM2wjQ/en-gb/assets/future-BWaG8ASaR6uXjr7wjM2wjQ-en-gb-issue-75-hero.jpg"/>
+    </issue>
+    <issue id="com.futurenet.playstationofficialmagazine.74" number="74" year="2012" month="September" displayDate="September 2012">
+      <title><![CDATA[Star Wars 1313]]></title>
+      <description><![CDATA[Star Wars 1313 exclusive, Sleeping Dogs review, Tomb Raider hands-on]]></description>
+      <heroimg src="http://cdn.static.storefront.futurefolio.futureplc.com/1356349295/future/BWaG8ASaR6uXjr7wjM2wjQ/en-gb/assets/future-BWaG8ASaR6uXjr7wjM2wjQ-en-gb-issue-74-hero.png"/>
+    </issue>
+    <issue id="com.futurenet.playstationofficialmagazine.73" number="73" year="2012" month="August" displayDate="August 2012">
+      <title><![CDATA[PlayStation's Hot 50]]></title>
+      <description><![CDATA[PlayStation's Hot 50, FIFA 12 hands-on, Beyond: first look]]></description>
+      <heroimg src="http://cdn.static.storefront.futurefolio.futureplc.com/1356349241/future/BWaG8ASaR6uXjr7wjM2wjQ/en-gb/assets/future-BWaG8ASaR6uXjr7wjM2wjQ-en-gb-issue-73-hero.png"/>
+    </issue>
+    <issue id="com.futurenet.playstationofficialmagazine.72.B">
+      <title><![CDATA[Edge Sampler]]></title>
+      <description><![CDATA[*iPAD ONLY* Sample the new interactive edition of Edge for FREE. Every page is now designed bespoke for iPad – featuring exclusive content, HD video, screenshot galleries, Retina support, animated images, searchable text and article sharing.]]></description>
+      <heroimg src="http://cdn.static.storefront.futurefolio.futureplc.com/1356349190/future/BWaG8ASaR6uXjr7wjM2wjQ/en-gb/assets/future-BWaG8ASaR6uXjr7wjM2wjQ-en-gb-issue-ywrWi5bm-hero.jpg"/>
+    </issue>
+    <issue id="com.futurenet.playstationofficialmagazine.72" number="72" year="2012" month="July" displayDate="July 2012">
+      <title><![CDATA[Hitman Absolution]]></title>
+      <description><![CDATA[Hitman Absolution hands-on, Dead Space 3 reveal, Euro 2012 predictions.]]></description>
+      <heroimg src="http://cdn.static.storefront.futurefolio.futureplc.com/1356349176/future/BWaG8ASaR6uXjr7wjM2wjQ/en-gb/assets/future-BWaG8ASaR6uXjr7wjM2wjQ-en-gb-issue-72-hero.png"/>
+    </issue>
+    <issue id="com.futurenet.playstationofficialmagazine.71" number="71" year="2012" month="June" displayDate="June 2012">
+      <title><![CDATA[Call of Duty Black Ops II]]></title>
+      <description><![CDATA[Call Of Duty: Black Ops II reveal, new Assassin's Creed III details, OPM vs Ladyhawke.]]></description>
+      <heroimg src="http://cdn.static.storefront.futurefolio.futureplc.com/1356349146/future/BWaG8ASaR6uXjr7wjM2wjQ/en-gb/assets/future-BWaG8ASaR6uXjr7wjM2wjQ-en-gb-issue-71-hero.png"/>
+    </issue>
+    <issue id="com.futurenet.playstationofficialmagazine.70" number="70" year="2012" month="May" displayDate="May 2012">
+      <title><![CDATA[Aliens]]></title>
+      <description><![CDATA[Aliens Colonial Marines hands-on, Gran Turismo 5 marathon, PS Vita freebies.]]></description>
+      <heroimg src="http://cdn.static.storefront.futurefolio.futureplc.com/1356349113/future/BWaG8ASaR6uXjr7wjM2wjQ/en-gb/assets/future-BWaG8ASaR6uXjr7wjM2wjQ-en-gb-issue-70-hero.png"/>
+    </issue>
+    <issue id="com.futurenet.playstationofficialmagazine.69" number="69" year="2012" month="April" displayDate="April 2012">
+      <title><![CDATA[Assassin's Creed III]]></title>
+      <description><![CDATA[Assassin's Creed III reveal, Mass Effect 3 review, PS Vita launch]]></description>
+      <heroimg src="http://cdn.static.storefront.futurefolio.futureplc.com/1356349081/future/BWaG8ASaR6uXjr7wjM2wjQ/en-gb/assets/future-BWaG8ASaR6uXjr7wjM2wjQ-en-gb-issue-69-hero.png"/>
+    </issue>
+    <issue id="com.futurenet.playstationofficialmagazine.68.A">
+      <title><![CDATA[PlayStation Vita Guide]]></title>
+      <description><![CDATA[Welcome to our Playstation Vita Complete Launch Guide!]]></description>
+      <heroimg src="http://cdn.static.storefront.futurefolio.futureplc.com/1356349039/future/BWaG8ASaR6uXjr7wjM2wjQ/en-gb/assets/future-BWaG8ASaR6uXjr7wjM2wjQ-en-gb-issue-1xnBzDRv-hero.png"/>
+    </issue>
+    <issue id="com.futurenet.playstationofficialmagazine.68" number="68" year="2012" month="March" displayDate="March 2012">
+      <title><![CDATA[Prototype 2]]></title>
+      <description><![CDATA[Thinking of buying a PS Vita? This issue's A-Z of Sony's ace new handheld and reviews special covering its launch line-up covers everything you need to know. Elsehwere check out the goriest game on PS3 in Prototype 2, the 13 games so awful you have to play them, new Hitman Absolution info and screens, and the first shots and details of Resident Evil 6.]]></description>
+      <heroimg src="http://cdn.static.storefront.futurefolio.futureplc.com/1356348976/future/BWaG8ASaR6uXjr7wjM2wjQ/en-gb/assets/future-BWaG8ASaR6uXjr7wjM2wjQ-en-gb-issue-68-hero.jpg"/>
+    </issue>
+    <issue id="com.futurenet.playstationofficialmagazine.67" number="67" year="2012" month="February" displayDate="February 2012">
+      <title><![CDATA[The Last of Us]]></title>
+      <description><![CDATA[Welcome to the February issue of Official PlayStation Magazine, the complete guide to PlayStation gaming, offering complete coverage of PS3, PS2 and PSP]]></description>
+      <heroimg src="http://cdn.static.storefront.futurefolio.futureplc.com/1356348897/future/BWaG8ASaR6uXjr7wjM2wjQ/en-gb/assets/future-BWaG8ASaR6uXjr7wjM2wjQ-en-gb-issue-67-hero.jpg"/>
+    </issue>
+    <issue id="com.futurenet.playstationofficialmagazine.66" number="66" year="2012" month="January" displayDate="January 2012">
+      <title><![CDATA[Max Payne 3]]></title>
+      <description><![CDATA[Welcome to the January issue of Official PlayStation Magazine, the complete guide to PlayStation gaming, offering complete coverage of PS3, PS2 and PSP]]></description>
+      <heroimg src="http://cdn.static.storefront.futurefolio.futureplc.com/1356348868/future/BWaG8ASaR6uXjr7wjM2wjQ/en-gb/assets/future-BWaG8ASaR6uXjr7wjM2wjQ-en-gb-issue-66-hero.jpg"/>
+    </issue>
+    <issue id="com.futurenet.playstationofficialmagazine.65.a">
+      <title><![CDATA[SoulCalibur V Special]]></title>
+      <description><![CDATA[From the makers of Official PlayStation Magazine everything you need to know about 2012's champion fighter]]></description>
+      <heroimg src="http://cdn.static.storefront.futurefolio.futureplc.com/1356348941/future/BWaG8ASaR6uXjr7wjM2wjQ/en-gb/assets/future-BWaG8ASaR6uXjr7wjM2wjQ-en-gb-issue-m27BCvr1-hero.jpg"/>
+    </issue>
+    <issue id="com.futurenet.playstationofficialmagazine.65" number="65" year="2011" displayDate="Christmas 2011">
+      <title><![CDATA[Hideo Kojima]]></title>
+      <description><![CDATA[Hideo Kojima talks MGS, the latest GTA V details, plus every Xmas hit reviewed.]]></description>
+      <heroimg src="http://cdn.static.storefront.futurefolio.futureplc.com/1356348809/future/BWaG8ASaR6uXjr7wjM2wjQ/en-gb/assets/future-BWaG8ASaR6uXjr7wjM2wjQ-en-gb-issue-65-hero.jpg"/>
+    </issue>
+    <issue id="com.futurenet.playstationofficialmagazine.64" number="64" year="2011" month="December" displayDate="December 2011">
+      <title><![CDATA[Uncharted 3]]></title>
+      <description><![CDATA[Welcome to Official PlayStation Magazine, the complete guide to PlayStation gaming, offering complete coverage of PS3, PS2 and PSP]]></description>
+      <heroimg src="http://cdn.static.storefront.futurefolio.futureplc.com/1356348769/future/BWaG8ASaR6uXjr7wjM2wjQ/en-gb/assets/future-BWaG8ASaR6uXjr7wjM2wjQ-en-gb-issue-64-hero.jpg"/>
+    </issue>
+    <issue id="com.futurenet.playstationofficialmagazine.63" number="63" year="2011" month="November" displayDate="November 2011">
+      <title><![CDATA[Saints Row the Third]]></title>
+      <description><![CDATA[Welcome to Official PlayStation Magazine, the complete guide to PlayStation gaming, offering complete coverage of PS3, PS2 and PSP]]></description>
+      <heroimg src="http://cdn.static.storefront.futurefolio.futureplc.com/1356348739/future/BWaG8ASaR6uXjr7wjM2wjQ/en-gb/assets/future-BWaG8ASaR6uXjr7wjM2wjQ-en-gb-issue-63-hero.jpg"/>
+    </issue>
+    <issue id="com.futurenet.playstationofficialmagazine.62" number="62" year="2011" month="October" displayDate="October 2011">
+      <title><![CDATA[Battlefield 3]]></title>
+      <description><![CDATA[Welcome to Official PlayStation Magazine, the complete guide to PlayStation gaming, offering complete coverage of PS3, PS2 and PSP]]></description>
+      <heroimg src="http://cdn.static.storefront.futurefolio.futureplc.com/1356348681/future/BWaG8ASaR6uXjr7wjM2wjQ/en-gb/assets/future-BWaG8ASaR6uXjr7wjM2wjQ-en-gb-issue-62-hero.jpg"/>
+    </issue>
+    <issue id="com.futurenet.playstationofficialmagazine.61" number="61" year="2011" month="September" displayDate="September 2011">
+      <title><![CDATA[Bioshock Infinite]]></title>
+      <description><![CDATA[Welcome to Official PlayStation Magazine, the complete guide to PlayStation gaming, offering complete coverage of PS3, PS2 and PSP]]></description>
+      <heroimg src="http://cdn.static.storefront.futurefolio.futureplc.com/1356348151/future/BWaG8ASaR6uXjr7wjM2wjQ/en-gb/assets/future-BWaG8ASaR6uXjr7wjM2wjQ-en-gb-issue-61-hero.png"/>
+    </issue>
+    <issue id="com.futurenet.playstationofficialmagazine.60" number="60" year="2011" month="August" displayDate="August 2011">
+      <title><![CDATA[Aliens]]></title>
+      <description><![CDATA[Welcome to Official PlayStation Magazine, the complete guide to PlayStation gaming, offering complete coverage of PS3, PS2 and PSP]]></description>
+      <heroimg src="http://cdn.static.storefront.futurefolio.futureplc.com/1356348181/future/BWaG8ASaR6uXjr7wjM2wjQ/en-gb/assets/future-BWaG8ASaR6uXjr7wjM2wjQ-en-gb-issue-60-hero.jpg"/>
+    </issue>
+    <issue id="com.futurenet.playstationofficialmagazine.59" number="59" year="2011" month="July" displayDate="July 2011">
+      <title><![CDATA[Fifa 12 World Class]]></title>
+      <description><![CDATA[Welcome to Official PlayStation Magazine, the complete guide to PlayStation gaming, offering complete coverage of PS3, PS2 and PSP]]></description>
+      <heroimg src="http://cdn.static.storefront.futurefolio.futureplc.com/1356348206/future/BWaG8ASaR6uXjr7wjM2wjQ/en-gb/assets/future-BWaG8ASaR6uXjr7wjM2wjQ-en-gb-issue-59-hero.jpg"/>
+    </issue>
+    <issue id="com.futurenet.playstationofficialmagazine.58" number="58" year="2011" month="June" displayDate="June 2011">
+      <title><![CDATA[Deus Ex Human Revolution]]></title>
+      <description><![CDATA[Welcome to Official PlayStation Magazine, the complete guide to PlayStation gaming, offering complete coverage of PS3, PS2 and PSP]]></description>
+      <heroimg src="http://cdn.static.storefront.futurefolio.futureplc.com/1356348237/future/BWaG8ASaR6uXjr7wjM2wjQ/en-gb/assets/future-BWaG8ASaR6uXjr7wjM2wjQ-en-gb-issue-58-hero.jpg"/>
+    </issue>
+    <issue id="com.futurenet.playstationofficialmagazine.57" number="57" year="2011" month="May" displayDate="May 2011">
+      <title><![CDATA[Uncharted 3]]></title>
+      <description><![CDATA[Welcome to Official PlayStation Magazine, the complete guide to PlayStation gaming, offering complete coverage of PS3, PS2 and PSP]]></description>
+      <heroimg src="http://cdn.static.storefront.futurefolio.futureplc.com/1356348253/future/BWaG8ASaR6uXjr7wjM2wjQ/en-gb/assets/future-BWaG8ASaR6uXjr7wjM2wjQ-en-gb-issue-57-hero.jpg"/>
+    </issue>
+    <issue id="com.futurenet.playstationofficialmagazine.56" number="56" year="2011" month="April" displayDate="April 2011">
+      <title><![CDATA[LA Noire]]></title>
+      <description><![CDATA[Welcome to Official PlayStation Magazine, the complete guide to PlayStation gaming, offering complete coverage of PS3, PS2 and PSP]]></description>
+      <heroimg src="http://cdn.static.storefront.futurefolio.futureplc.com/1356348268/future/BWaG8ASaR6uXjr7wjM2wjQ/en-gb/assets/future-BWaG8ASaR6uXjr7wjM2wjQ-en-gb-issue-56-hero.jpg"/>
+    </issue>
+    <issue id="com.futurenet.playstationofficialmagazine.55" number="55" year="2011" displayDate="Spring 2011">
+      <title><![CDATA[Skyrim]]></title>
+      <description><![CDATA[Welcome to Official PlayStation Magazine, the complete guide to PlayStation gaming, offering complete coverage of PS3, PS2 and PSP]]></description>
+      <heroimg src="http://cdn.static.storefront.futurefolio.futureplc.com/1356348289/future/BWaG8ASaR6uXjr7wjM2wjQ/en-gb/assets/future-BWaG8ASaR6uXjr7wjM2wjQ-en-gb-issue-55-hero.jpg"/>
+    </issue>
+    <issue id="com.futurenet.playstationofficialmagazine.54" number="54" year="2011" month="February" displayDate="February 2011">
+      <title><![CDATA[Sci-Fi Special Edition]]></title>
+      <description><![CDATA[Welcome to Official PlayStation Magazine, the complete guide to PlayStation gaming, offering complete coverage of PS3, PS2 and PSP]]></description>
+      <heroimg src="http://cdn.static.storefront.futurefolio.futureplc.com/1356348312/future/BWaG8ASaR6uXjr7wjM2wjQ/en-gb/assets/future-BWaG8ASaR6uXjr7wjM2wjQ-en-gb-issue-54-hero.jpg"/>
+    </issue>
+    <issue id="com.futurenet.playstationofficialmagazine.53" number="53" year="2011" month="January" displayDate="January 2011">
+      <title><![CDATA[Little Big Planet 2]]></title>
+      <description><![CDATA[Welcome to Official PlayStation Magazine, the complete guide to PlayStation gaming, offering complete coverage of PS3, PS2 and PSP]]></description>
+      <heroimg src="http://cdn.static.storefront.futurefolio.futureplc.com/1356348329/future/BWaG8ASaR6uXjr7wjM2wjQ/en-gb/assets/future-BWaG8ASaR6uXjr7wjM2wjQ-en-gb-issue-53-hero.jpg"/>
+    </issue>
+    <issue id="com.futurenet.playstationofficialmagazine.52" number="52" year="2010" displayDate="Christmas 2010">
+      <title><![CDATA[Gran Turismo 5]]></title>
+      <description><![CDATA[Welcome to Official PlayStation Magazine, the complete guide to PlayStation gaming, offering complete coverage of PS3, PS2 and PSP]]></description>
+      <heroimg src="http://cdn.static.storefront.futurefolio.futureplc.com/1356348345/future/BWaG8ASaR6uXjr7wjM2wjQ/en-gb/assets/future-BWaG8ASaR6uXjr7wjM2wjQ-en-gb-issue-52-hero.jpg"/>
+    </issue>
+    <issue id="com.futurenet.playstationofficialmagazine.51" number="51" year="2010" month="December" displayDate="December 2010">
+      <title><![CDATA[Call of Duty Black Ops]]></title>
+      <description><![CDATA[Welcome to Official PlayStation Magazine, the complete guide to PlayStation gaming, offering complete coverage of PS3, PS2 and PSP]]></description>
+      <heroimg src="http://cdn.static.storefront.futurefolio.futureplc.com/1356348363/future/BWaG8ASaR6uXjr7wjM2wjQ/en-gb/assets/future-BWaG8ASaR6uXjr7wjM2wjQ-en-gb-issue-51-hero.jpg"/>
+    </issue>
+    <issue id="com.futurenet.playstationofficialmagazine.50" number="50" year="2010" month="November" displayDate="November 2010">
+      <title><![CDATA[Fifa 11]]></title>
+      <description><![CDATA[Welcome to Official PlayStation Magazine, the complete guide to PlayStation gaming, offering complete coverage of PS3, PS2 and PSP]]></description>
+      <heroimg src="http://cdn.static.storefront.futurefolio.futureplc.com/1356348380/future/BWaG8ASaR6uXjr7wjM2wjQ/en-gb/assets/future-BWaG8ASaR6uXjr7wjM2wjQ-en-gb-issue-50-hero.jpg"/>
+    </issue>
+    <issue id="com.futurenet.playstationofficialmagazine.49" number="49" year="2010" month="October" displayDate="October 2010">
+      <title><![CDATA[Batman Arkham City]]></title>
+      <description><![CDATA[Welcome to Official PlayStation Magazine, the complete guide to PlayStation gaming, offering complete coverage of PS3, PS2 and PSP]]></description>
+      <heroimg src="http://cdn.static.storefront.futurefolio.futureplc.com/1356348401/future/BWaG8ASaR6uXjr7wjM2wjQ/en-gb/assets/future-BWaG8ASaR6uXjr7wjM2wjQ-en-gb-issue-49-hero.jpg"/>
+    </issue>
+    <issue id="com.futurenet.playstationofficialmagazine.48" number="48" year="2010" month="September" displayDate="September 2010">
+      <title><![CDATA[PS3 New Wave Horror]]></title>
+      <description><![CDATA[Welcome to Official PlayStation Magazine, the complete guide to PlayStation gaming, offering complete coverage of PS3, PS2 and PSP]]></description>
+      <heroimg src="http://cdn.static.storefront.futurefolio.futureplc.com/1356348424/future/BWaG8ASaR6uXjr7wjM2wjQ/en-gb/assets/future-BWaG8ASaR6uXjr7wjM2wjQ-en-gb-issue-48-hero.png"/>
+    </issue>
+    <issue id="com.futurenet.playstationofficialmagazine.47" number="47" year="2010" month="August" displayDate="August 2010">
+      <title><![CDATA[Gran Turismo 5]]></title>
+      <description><![CDATA[Welcome to Official PlayStation Magazine, the complete guide to PlayStation gaming, offering complete coverage of PS3, PS2 and PSP]]></description>
+      <heroimg src="http://cdn.static.storefront.futurefolio.futureplc.com/1356348445/future/BWaG8ASaR6uXjr7wjM2wjQ/en-gb/assets/future-BWaG8ASaR6uXjr7wjM2wjQ-en-gb-issue-47-hero.png"/>
+    </issue>
+    <issue id="com.futurenet.playstationofficialmagazine.46" number="46" year="2010" month="July" displayDate="July 2010">
+      <title><![CDATA[Killzone 3]]></title>
+      <description><![CDATA[Welcome to Official PlayStation Magazine, the complete guide to PlayStation gaming, offering complete coverage of PS3, PS2 and PSP]]></description>
+      <heroimg src="http://cdn.static.storefront.futurefolio.futureplc.com/1356348460/future/BWaG8ASaR6uXjr7wjM2wjQ/en-gb/assets/future-BWaG8ASaR6uXjr7wjM2wjQ-en-gb-issue-46-hero.png"/>
+    </issue>
+    <issue id="com.futurenet.playstationofficialmagazine.45" number="45" year="2010" month="June" displayDate="June 2010">
+      <title><![CDATA[Call of Duty Black Ops]]></title>
+      <description><![CDATA[Welcome to Official PlayStation Magazine, the complete guide to PlayStation gaming, offering complete coverage of PS3, PS2 and PSP]]></description>
+      <heroimg src="http://cdn.static.storefront.futurefolio.futureplc.com/1356348479/future/BWaG8ASaR6uXjr7wjM2wjQ/en-gb/assets/future-BWaG8ASaR6uXjr7wjM2wjQ-en-gb-issue-45-hero.png"/>
+    </issue>
+    <issue id="com.futurenet.playstationofficialmagazine.44" number="44" year="2010" month="May" displayDate="May 2010">
+      <title><![CDATA[Medal of Honor]]></title>
+      <description><![CDATA[Welcome to Official PlayStation Magazine, the complete guide to PlayStation gaming, offering complete coverage of PS3, PS2 and PSP]]></description>
+      <heroimg src="http://cdn.static.storefront.futurefolio.futureplc.com/1356348525/future/BWaG8ASaR6uXjr7wjM2wjQ/en-gb/assets/future-BWaG8ASaR6uXjr7wjM2wjQ-en-gb-issue-44-hero.png"/>
+    </issue>
+    <issue id="com.futurenet.playstationofficialmagazine.43" number="43" year="2010" month="April" displayDate="April 2010">
+      <title><![CDATA[Ghost Recon]]></title>
+      <description><![CDATA[Welcome to Official PlayStation Magazine, the complete guide to PlayStation gaming, offering complete coverage of PS3, PS2 and PSP]]></description>
+      <heroimg src="http://cdn.static.storefront.futurefolio.futureplc.com/1356348541/future/BWaG8ASaR6uXjr7wjM2wjQ/en-gb/assets/future-BWaG8ASaR6uXjr7wjM2wjQ-en-gb-issue-43-hero.png"/>
+    </issue>
+    <issue id="com.futurenet.playstationofficialmagazine.42" number="42" year="2010" month="March" displayDate="March 2010">
+      <title><![CDATA[God of War]]></title>
+      <description><![CDATA[Welcome to Official PlayStation Magazine, the complete guide to PlayStation gaming, offering complete coverage of PS3, PS2 and PSP]]></description>
+      <heroimg src="http://cdn.static.storefront.futurefolio.futureplc.com/1356348558/future/BWaG8ASaR6uXjr7wjM2wjQ/en-gb/assets/future-BWaG8ASaR6uXjr7wjM2wjQ-en-gb-issue-42-hero.png"/>
+    </issue>
+    <issue id="com.futurenet.playstationofficialmagazine.41" number="41" year="2010" month="February" displayDate="February 2010">
+      <title><![CDATA[Heavy Rain]]></title>
+      <description><![CDATA[Welcome to Official PlayStation Magazine, the complete guide to PlayStation gaming, offering complete coverage of PS3, PS2 and PSP]]></description>
+      <heroimg src="http://cdn.static.storefront.futurefolio.futureplc.com/1356348574/future/BWaG8ASaR6uXjr7wjM2wjQ/en-gb/assets/future-BWaG8ASaR6uXjr7wjM2wjQ-en-gb-issue-41-hero.png"/>
+    </issue>
+    <issue id="com.futurenet.playstationofficialmagazine.40" number="40" year="2010" month="January" displayDate="January 2010">
+      <title><![CDATA[Dead Space 2]]></title>
+      <description><![CDATA[Welcome to Official PlayStation Magazine, the complete guide to PlayStation gaming, offering complete coverage of PS3, PS2 and PSP]]></description>
+      <heroimg src="http://cdn.static.storefront.futurefolio.futureplc.com/1356348591/future/BWaG8ASaR6uXjr7wjM2wjQ/en-gb/assets/future-BWaG8ASaR6uXjr7wjM2wjQ-en-gb-issue-40-hero.png"/>
+    </issue>
+    <issue id="com.futurenet.playstationofficialmagazine.39" number="39" year="2009" displayDate="Xmas 2009">
+      <title><![CDATA[Kane & Lynch 2]]></title>
+      <description><![CDATA[Welcome to Official PlayStation Magazine, the complete guide to PlayStation gaming, offering complete coverage of PS3, PS2 and PSP]]></description>
+      <heroimg src="http://cdn.static.storefront.futurefolio.futureplc.com/1356348613/future/BWaG8ASaR6uXjr7wjM2wjQ/en-gb/assets/future-BWaG8ASaR6uXjr7wjM2wjQ-en-gb-issue-39-hero.png"/>
+    </issue>
+    <issue id="com.futurenet.playstationofficialmagazine.38" number="38" year="2009" month="December" displayDate="December 2009">
+      <title><![CDATA[Assassin's Creed II]]></title>
+      <description><![CDATA[Welcome to Official PlayStation Magazine, the complete guide to PlayStation gaming, offering complete coverage of PS3, PS2 and PSP]]></description>
+      <heroimg src="http://cdn.static.storefront.futurefolio.futureplc.com/1356348635/future/BWaG8ASaR6uXjr7wjM2wjQ/en-gb/assets/future-BWaG8ASaR6uXjr7wjM2wjQ-en-gb-issue-38-hero.png"/>
+    </issue>
+    <issue id="com.futurenet.playstationofficialmagazine.37" number="37" year="2009" month="November" displayDate="November 2009">
+      <title><![CDATA[Uncharted 2]]></title>
+      <description><![CDATA[Welcome to Official PlayStation Magazine, the complete guide to PlayStation gaming, offering complete coverage of PS3, PS2 and PSP]]></description>
+      <heroimg src="http://cdn.static.storefront.futurefolio.futureplc.com/1356348651/future/BWaG8ASaR6uXjr7wjM2wjQ/en-gb/assets/future-BWaG8ASaR6uXjr7wjM2wjQ-en-gb-issue-37-hero.png"/>
+    </issue>
+    <issue id="com.futurenet.playstationofficialmagazine.tescosampler" year="2010" month="January">
+      <title><![CDATA[Tesco Sampler]]></title>
+      <description><![CDATA[In association with Tesco we are giving you the chance to immerse yourself in a world of digital delights with the latest edition of the technology & entertainment magazine. You can get every issue for FREE by going to newsstand and downloading the container app.]]></description>
+      <heroimg src="http://cdn.static.storefront.futurefolio.futureplc.com/1400681994/future/BWaG8ASaR6uXjr7wjM2wjQ/en-gb/assets/future-BWaG8ASaR6uXjr7wjM2wjQ-en-gb-issue-4128-hero.jpg"/>
+    </issue>
+  </library>
+</store>
